@@ -133,7 +133,8 @@
   - name: '2025'
     deadline: '2025-05-16T12:00:00-12:00'
   - name: '2026'
-    deadline: '2026-05-22T11:59:59-12:00'
+    deadline: '2026-05-21T23:59:00-12:00'
+    notification: '2026-08-14'
 - name: BlockSys
   slug: blocksys
   rank:
@@ -266,6 +267,7 @@
   - name: '2027'
     abstract: '2026-11-16T23:59:59-12:00'
     deadline: '2026-11-23T23:59:59-12:00'
+    notification: '2027-01-25'
 - name: CRYPTO
   slug: crypto
   rank:
@@ -519,6 +521,7 @@
     deadline: '2025-10-02T23:59:59-12:00'
   - name: '2027'
     deadline: '2026-09-17T23:59:59-12:00'
+    notification: '2027-01-18'
   accept_rate: 21.0%(142/675 26')
 - name: EuroS&P
   slug: euros&p
@@ -909,6 +912,7 @@
     deadline: '2025-10-24T23:59:59-12:00'
   - name: '2027'
     deadline: '2026-08-16T23:59:59-12:00'
+    notification: '2026-11-26'
   accept_rate: 25.1%(65/259 26')
 - name: RAID
   slug: raid
@@ -932,6 +936,7 @@
     deadline: '2025-04-24T23:59:59-12:00'
   - name: '2026'
     deadline: '2026-04-16T23:59:59-12:00'
+    notification: '2026-07-10'
   accept_rate: 19.2%(59/307 26')
 - name: S&P
   slug: s&p
