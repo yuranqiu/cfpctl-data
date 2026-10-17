@@ -34,6 +34,7 @@
     deadline: '2025-09-11T23:59:59-12:00'
   - name: '2027'
     deadline: '2026-09-10T23:59:59-12:00'
+    notification: '2026-12-17'
   accept_rate: 25.3%(1705/6730 26')
 - name: CollaborateCom
   slug: collaboratecom
@@ -117,6 +118,7 @@
   - name: '2027'
     abstract: '2027-01-11T23:59:59-12:00'
     deadline: '2027-01-18T23:59:59-12:00'
+    notification: '2027-03-19'
   accept_rate: 21.5%(101/469 22')
 - name: ECSCW
   slug: ecscw

@@ -26,6 +26,7 @@
   - name: '2027'
     abstract: '2026-07-21T23:59:59-12:00'
     deadline: '2026-07-28T23:59:59-12:00'
+    notification: '2026-11-30'
   accept_rate: 17.6%(4167/23680 26')
 - name: AAMAS
   slug: aamas
@@ -196,6 +197,7 @@
     deadline: '2025-10-02T23:59:59-12:00'
   - name: '2027'
     deadline: '2026-10-12T23:59:59-12:00'
+    notification: '2027-01-05'
   accept_rate: 35.4%(51/144 25')
 - name: BMVC
   slug: bmvc
@@ -521,6 +523,7 @@
   - name: '2027'
     abstract: '2026-12-07T23:59:59-12:00'
     deadline: '2026-12-14T23:59:59-12:00'
+    notification: '2027-02-26'
   accept_rate: 22.7%(90/397 26')
 - name: ICCBR
   slug: iccbr
@@ -579,6 +582,7 @@
   - name: '2027'
     abstract: '2027-01-31T23:59:59-12:00'
     deadline: '2027-02-20T23:59:59-12:00'
+    notification: '2027-05-15'
   accept_rate: 47.5%(140/295 26')
 - name: ICLR
   slug: iclr
@@ -924,6 +928,7 @@
   - name: '2026'
     abstract: '2026-05-05T11:59:00+00:00'
     deadline: '2026-05-07T11:59:00+00:00'
+    notification: '2026-09-24'
   accept_rate: 24.5%(5290/21575 25')
 - name: NLPCC
   slug: nlpcc
@@ -977,6 +982,7 @@
     deadline: '2025-06-27T23:59:59-12:00'
   - name: '2026'
     deadline: '2026-06-27T23:59:59-12:00'
+    notification: '2026-08-18'
   accept_rate: 42.1%(286/679 25')
 - name: UAI
   slug: uai
@@ -1000,4 +1006,5 @@
     deadline: '2025-02-10T23:59:59-12:00'
   - name: '2026'
     deadline: '2026-02-25T23:59:59-12:00'
+    notification: '2026-06-01T23:59:00-12:00'
   accept_rate: 26.9%(200/744 24')

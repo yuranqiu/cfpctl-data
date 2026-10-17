@@ -203,6 +203,7 @@
   - name: '2027'
     abstract: '2026-10-28T23:59:59-12:00'
     deadline: '2026-11-04T23:59:59-12:00'
+    notification: '2026-12-22'
   accept_rate: 16.2%(55/339 25')
 - name: RTSS
   slug: rtss
@@ -220,7 +221,7 @@
     deadline: '2025-05-22T23:59:59-12:00'
   - name: '2026'
     abstract: '2026-05-21T23:59:59-12:00'
-    deadline: '2026-05-26T23:59:59-12:00'
+    deadline: '2026-05-21T23:59:59-12:00'
   accept_rate: 28.9%(37/128 22')
 - name: SIGSPATIAL
   slug: sigspatial
@@ -278,6 +279,7 @@
     deadline: '2025-07-03T23:59:59-12:00'
   - name: '2026'
     deadline: '2026-07-02T23:59:59-12:00'
+    notification: '2026-09-10'
   accept_rate: 29.8%(67/225 25')
 - name: WWW
   slug: www
@@ -310,4 +312,5 @@
   - name: '2027'
     abstract: '2026-10-18T23:59:59-12:00'
     deadline: '2026-10-25T23:59:59-12:00'
+    notification: '2027-01-04'
   accept_rate: 20.1%(676/3370 26')
