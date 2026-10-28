@@ -19,6 +19,7 @@
     deadline: '2025-06-07T23:59:59-12:00'
   - name: '2026'
     deadline: '2026-06-22T23:59:59-12:00'
+    notification: '2026-08-04'
   accept_rate: 44.1%(15/34 26')
 - name: APSEC
   slug: apsec
@@ -36,6 +37,7 @@
   - name: '2026'
     abstract: '2026-07-13T23:59:59-12:00'
     deadline: '2026-07-20T23:59:59-12:00'
+    notification: '2026-09-14'
   accept_rate: 28.2%(68/241 25')
 - name: ASE
   slug: ase
@@ -60,6 +62,7 @@
     deadline: '2025-05-30T23:59:59-12:00'
   - name: '2026'
     deadline: '2026-03-26T23:59:59-12:00'
+    notification: '2026-06-18'
   accept_rate: 20.8%(247/1190 25')
 - name: ATVA
   slug: atva
@@ -153,6 +156,7 @@
   - name: '2027'
     abstract: '2027-01-15T23:59:59-12:00'
     deadline: '2027-01-22T23:59:59-12:00'
+    notification: '2027-03-12'
   accept_rate: 26.1%(63/241 26')
 - name: ECOOP
   slug: ecoop
@@ -380,6 +384,7 @@
   - name: '2027'
     abstract: '2026-10-29T23:59:59-12:00'
     deadline: '2026-11-05T23:59:59-12:00'
+    notification: '2027-01-14'
   accept_rate: 41.3%(38/92 25')
 - name: ICSE
   slug: icse
@@ -443,6 +448,7 @@
     deadline: '2026-03-06T23:59:59-12:00'
   - name: '2027'
     deadline: '2027-03-05T23:59:59-12:00'
+    notification: '2027-05-28'
   accept_rate: 23.9%(45/188 25')
 - name: ICSOC
   slug: icsoc
@@ -610,6 +616,7 @@
   - name: '2027'
     abstract: '2027-01-08T23:59:59-12:00'
     deadline: '2027-01-11T23:59:59-12:00'
+    notification: '2027-06-17'
   accept_rate: 23.6%(210/888 26')
 - name: LCTES
   slug: lctes
@@ -670,6 +677,7 @@
   - name: '2026'
     abstract: '2026-03-20T23:59:59-12:00'
     deadline: '2026-03-27T23:59:59-12:00'
+    notification: '2026-06-17'
   accept_rate: 25.0%(20/80 25')
 - name: MSR
   slug: msr
@@ -702,6 +710,7 @@
   - name: '2027'
     abstract: '2026-10-20T23:59:59-12:00'
     deadline: '2026-10-23T23:59:59-12:00'
+    notification: '2027-01-08'
   accept_rate: 29.2%(47/161 25')
 - name: OOPSLA
   slug: oopsla
@@ -765,8 +774,9 @@
     abstract: '2025-12-04T22:59:59-12:00'
     deadline: '2025-12-11T22:59:59-12:00'
   - name: '2027'
-    abstract: '2026-12-01T22:59:59-12:00'
-    deadline: '2026-12-08T22:59:59-12:00'
+    abstract: '2026-12-01T22:59:00+00:00'
+    deadline: '2026-12-08T22:59:00+00:00'
+    notification: '2027-03-16'
   accept_rate: 20.0%(134/669 26')
 - name: PEPM
   slug: pepm
@@ -804,6 +814,7 @@
     deadline: '2025-11-13T23:59:59-12:00'
   - name: '2027'
     deadline: '2026-11-12T23:59:59-12:00'
+    notification: '2027-03-04'
   accept_rate: 28.5%(90/316 25')
 - name: POPL
   slug: popl
@@ -829,6 +840,7 @@
     deadline: '2025-07-10T23:59:59-12:00'
   - name: '2027'
     deadline: '2026-07-09T23:59:59-12:00'
+    notification: '2026-10-05'
   accept_rate: 24.5%(91/371 26')
 - name: QRS
   slug: qrs
@@ -930,6 +942,7 @@
   - name: '2027'
     abstract: '2026-09-21T23:59:59-12:00'
     deadline: '2026-09-25T23:59:59-12:00'
+    notification: '2026-12-01'
   accept_rate: 17.7%(47/265 26')
 - name: SAS
   slug: sas
@@ -1022,6 +1035,7 @@
   - name: '2026'
     abstract: '2026-03-26T23:59:59-12:00'
     deadline: '2026-04-01T23:59:59-12:00'
+    notification: '2026-07-03'
   accept_rate: 17.7%(65/368 25')
 - name: SSE
   slug: sse

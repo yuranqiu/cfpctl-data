@@ -344,6 +344,7 @@
     deadline: '2026-02-13T23:59:59-12:00'
   - name: '2027'
     deadline: '2027-01-31T23:59:59-12:00'
+    notification: '2027-04-01'
   accept_rate: 35.2%(277/788 26')
 - name: IEEE VIS
   slug: ieee-vis
@@ -452,6 +453,7 @@
   - name: '2026'
     abstract: '2026-03-09T23:59:59-12:00'
     deadline: '2026-03-16T23:59:59-12:00'
+    notification: '2026-06-22T23:59:00-12:00'
   accept_rate: 28.4%(217/763 25')
 - name: MMAsia
   slug: mmasia
