@@ -127,6 +127,7 @@
     deadline: '2025-10-27T23:59:59-12:00'
   - name: '2027'
     deadline: '2026-11-25T23:59:59-12:00'
+    notification: '2027-01-25'
   accept_rate: 27.3%(228/834 26')
 - name: ECIR
   slug: ecir

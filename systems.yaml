@@ -118,6 +118,7 @@
   - name: '2027'
     abstract: '2026-11-24T23:59:59-12:00'
     deadline: '2026-12-01T23:59:59-12:00'
+    notification: '2027-02-01'
   accept_rate: 26.1%(60/230 21')
 - name: CF
   slug: cf
@@ -223,8 +224,9 @@
     abstract: '2025-09-07T23:59:59-12:00'
     deadline: '2025-09-14T23:59:59-12:00'
   - name: '2027'
-    abstract: '2026-09-13T23:59:59-12:00'
-    deadline: '2026-09-20T23:59:59-12:00'
+    abstract: '2026-09-13T23:59:00-12:00'
+    deadline: '2026-09-20T23:59:00-12:00'
+    notification: '2026-11-23'
   accept_rate: 24.8%(325/1310 26')
 - name: ETS
   slug: ets
@@ -1014,6 +1016,7 @@
   - name: '2026'
     abstract: '2026-02-11T23:59:59-12:00'
     deadline: '2026-02-16T23:59:59-12:00'
+    notification: '2026-04-29'
 - name: PPoPP
   slug: ppopp
   rank:
@@ -1040,6 +1043,7 @@
     deadline: '2025-09-01T23:59:59-12:00'
   - name: '2027'
     deadline: '2026-08-03T23:59:59-12:00'
+    notification: '2026-10-26'
   accept_rate: 23.7%(31/131 23')
 - name: RTAS
   slug: rtas
