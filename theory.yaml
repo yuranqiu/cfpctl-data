@@ -38,6 +38,7 @@
     deadline: '2026-01-28T23:59:59-12:00'
   - name: '2027'
     deadline: '2027-01-20T23:59:59-12:00'
+    notification: '2027-04-23'
   accept_rate: 25.4%(81/319 26')
 - name: CCC
   slug: ccc
@@ -79,6 +80,7 @@
     deadline: '2025-03-05T23:59:59-12:00'
   - name: '2026'
     deadline: '2026-03-04T23:59:59-12:00'
+    notification: '2026-05-06'
   accept_rate: 31.2%(34/109 26')
 - name: CONCUR
   slug: concur
@@ -107,6 +109,7 @@
   - name: '2026'
     abstract: '2026-04-20T23:59:59-12:00'
     deadline: '2026-04-27T23:59:59-12:00'
+    notification: '2026-06-15'
   accept_rate: 37.7%(43/114 26')
 - name: ESA
   slug: esa
@@ -303,7 +306,8 @@
   - name: '2025'
     deadline: '2025-06-30T23:59:00-12:00'
   - name: '2026'
-    deadline: '2026-06-26T23:59:59-12:00'
+    deadline: '2026-06-29T23:59:59-12:00'
+    notification: '2026-09-07'
   accept_rate: 29.2%(52/178 25')
 - name: LICS
   slug: lics
