@@ -167,6 +167,7 @@
   - name: '2026'
     abstract: '2026-05-15T23:59:59-12:00'
     deadline: '2026-05-22T23:59:59-12:00'
+    notification: '2026-07-21'
 - name: IMC
   slug: imc
   rank:

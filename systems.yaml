@@ -225,6 +225,7 @@
   - name: '2027'
     abstract: '2026-09-13T23:59:59-12:00'
     deadline: '2026-09-20T23:59:59-12:00'
+    notification: '2026-11-23'
   accept_rate: 24.8%(325/1310 26')
 - name: ETS
   slug: ets
